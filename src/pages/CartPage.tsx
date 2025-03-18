@@ -1,11 +1,10 @@
 import React from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 
 const CartPage: React.FC = () => {
   const { cart, removeFromCart, updateQuantity, totalItems, totalPrice } =
     useCart();
-  const navigate = useNavigate();
 
   return (
     <div className="container mx-auto px-4 py-8">
