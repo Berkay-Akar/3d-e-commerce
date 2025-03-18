@@ -6,7 +6,7 @@
       "description": "A sleek modern chair with ergonomic design, perfect for any contemporary living space.",
       "price": 199.99,
       "category": "furniture",
-      "image": "https://via.placeholder.com/400x400?text=Modern+Chair",
+      "image": "https://img.freepik.com/free-vector/box-mockup_1017-7633.jpg?t=st=1742287636~exp=1742291236~hmac=210038dcc57e44745b4630b2ab5912d9b2315d104e3cf74f871d59953098b359&w=740",
       "modelPath": "/models/cube.glb",
       "colors": [
         {
@@ -49,7 +49,7 @@
       "description": "Elegant table lamp with adjustable brightness, adds warmth and style to any room.",
       "price": 129.99,
       "category": "lighting",
-      "image": "https://via.placeholder.com/400x400?text=Table+Lamp",
+      "image": "https://img.freepik.com/free-vector/box-mockup_1017-7633.jpg?t=st=1742287636~exp=1742291236~hmac=210038dcc57e44745b4630b2ab5912d9b2315d104e3cf74f871d59953098b359&w=740",
       "modelPath": "/models/lamp.glb",
       "colors": [
         {
@@ -87,7 +87,7 @@
       "description": "Comfortable three-seater sofa with clean lines and premium upholstery.",
       "price": 899.99,
       "category": "furniture",
-      "image": "https://via.placeholder.com/400x400?text=Minimalist+Sofa",
+      "image": "https://img.freepik.com/free-vector/box-mockup_1017-7633.jpg?t=st=1742287636~exp=1742291236~hmac=210038dcc57e44745b4630b2ab5912d9b2315d104e3cf74f871d59953098b359&w=740",
       "modelPath": "/models/sofa.glb",
       "colors": [
         {
@@ -135,7 +135,7 @@
       "description": "Handcrafted ceramic vase with unique texture, perfect for fresh or dried flowers.",
       "price": 79.99,
       "category": "decor",
-      "image": "https://via.placeholder.com/400x400?text=Ceramic+Vase",
+      "image": "https://img.freepik.com/free-vector/box-mockup_1017-7633.jpg?t=st=1742287636~exp=1742291236~hmac=210038dcc57e44745b4630b2ab5912d9b2315d104e3cf74f871d59953098b359&w=740",
       "modelPath": "/models/vase.glb",
       "colors": [
         {
