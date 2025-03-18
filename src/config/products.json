@@ -1,0 +1,176 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Modern Chair",
+      "description": "A sleek modern chair with ergonomic design, perfect for any contemporary living space.",
+      "price": 199.99,
+      "category": "furniture",
+      "image": "https://via.placeholder.com/400x400?text=Modern+Chair",
+      "modelPath": "/models/cube.glb",
+      "colors": [
+        {
+          "id": "c1",
+          "name": "Black",
+          "value": "#000000"
+        },
+        {
+          "id": "c2",
+          "name": "White",
+          "value": "#ffffff"
+        },
+        {
+          "id": "c3",
+          "name": "Walnut",
+          "value": "#5e4130"
+        }
+      ],
+      "sizes": [
+        {
+          "id": "s1",
+          "name": "Small",
+          "value": "small"
+        },
+        {
+          "id": "s2",
+          "name": "Medium",
+          "value": "medium"
+        },
+        {
+          "id": "s3",
+          "name": "Large",
+          "value": "large"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Designer Table Lamp",
+      "description": "Elegant table lamp with adjustable brightness, adds warmth and style to any room.",
+      "price": 129.99,
+      "category": "lighting",
+      "image": "https://via.placeholder.com/400x400?text=Table+Lamp",
+      "modelPath": "/models/lamp.glb",
+      "colors": [
+        {
+          "id": "c1",
+          "name": "Brass",
+          "value": "#b5a642"
+        },
+        {
+          "id": "c2",
+          "name": "Silver",
+          "value": "#c0c0c0"
+        },
+        {
+          "id": "c3",
+          "name": "Copper",
+          "value": "#b87333"
+        }
+      ],
+      "sizes": [
+        {
+          "id": "s1",
+          "name": "Small",
+          "value": "small"
+        },
+        {
+          "id": "s2",
+          "name": "Large",
+          "value": "large"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Minimalist Sofa",
+      "description": "Comfortable three-seater sofa with clean lines and premium upholstery.",
+      "price": 899.99,
+      "category": "furniture",
+      "image": "https://via.placeholder.com/400x400?text=Minimalist+Sofa",
+      "modelPath": "/models/sofa.glb",
+      "colors": [
+        {
+          "id": "c1",
+          "name": "Gray",
+          "value": "#808080"
+        },
+        {
+          "id": "c2",
+          "name": "Navy",
+          "value": "#000080"
+        },
+        {
+          "id": "c3",
+          "name": "Beige",
+          "value": "#f5f5dc"
+        },
+        {
+          "id": "c4",
+          "name": "Olive",
+          "value": "#808000"
+        }
+      ],
+      "sizes": [
+        {
+          "id": "s1",
+          "name": "2-Seater",
+          "value": "small"
+        },
+        {
+          "id": "s2",
+          "name": "3-Seater",
+          "value": "medium"
+        },
+        {
+          "id": "s3",
+          "name": "L-Shaped",
+          "value": "large"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Ceramic Vase",
+      "description": "Handcrafted ceramic vase with unique texture, perfect for fresh or dried flowers.",
+      "price": 79.99,
+      "category": "decor",
+      "image": "https://via.placeholder.com/400x400?text=Ceramic+Vase",
+      "modelPath": "/models/vase.glb",
+      "colors": [
+        {
+          "id": "c1",
+          "name": "Terracotta",
+          "value": "#e2725b"
+        },
+        {
+          "id": "c2",
+          "name": "Blue",
+          "value": "#4682b4"
+        },
+        {
+          "id": "c3",
+          "name": "White",
+          "value": "#ffffff"
+        }
+      ],
+      "sizes": [
+        {
+          "id": "s1",
+          "name": "Small",
+          "value": "small"
+        },
+        {
+          "id": "s2",
+          "name": "Medium",
+          "value": "medium"
+        },
+        {
+          "id": "s3",
+          "name": "Large",
+          "value": "large"
+        }
+      ]
+    }
+  ]
+} 
